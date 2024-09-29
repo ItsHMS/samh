@@ -1,13 +1,15 @@
-<template>{{ t("welcome") }} to Smah Travel</template>
+<template>
+  <NuxtLayout>
+    <NuxtPage />
+  </NuxtLayout>
+</template>
 
 <script setup>
-const { t, locale } = useI18n();
-console.log("Current locale:", locale.value);
+const { locale } = useI18n();
 const isRTL = computed(() => locale.value === "ar");
 useHead(() => ({
   htmlAttrs: {
     dir: isRTL.value ? "rtl" : "ltr",
   },
-  title: locale.value === "ar" ? "مرحبًا" : "Welcome",
 }));
 </script>
