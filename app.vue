@@ -5,7 +5,9 @@ const { t, locale } = useI18n();
 console.log("Current locale:", locale.value);
 
 useHead(() => ({
-  title: locale.value === 'ar' ? 'مرحبًا' : 'Welcome'
-}))
-
+  htmlAttrs: {
+    dir: "rtl",
+  },
+  title: locale.value === "ar" ? "مرحبًا" : "Welcome",
+}));
 </script>
