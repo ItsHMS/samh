@@ -1,3 +1,47 @@
 {
-    "welcome": "Welcome!"
+    "header": {
+        "logo": "G",
+        "flight": "se Flight",
+        "home": "Home",
+        "promo": "Promo",
+        "myBooking": "My Booking",
+        "signIn": "Sign In"
+    },
+    "hero": {
+        "title1": "Discover Our ",
+        "title2": "Paradise Worlds",
+        "subtitle1": "Travel ",
+        "subtitle2": "Anywhere Now!"
+    },
+    "search": {
+        "oneWay": "One Way",
+        "roundTrip": "Round Trip",
+        "from": "From",
+        "to": "To",
+        "depart": "Depart",
+        "return": "Return",
+        "cabinClass": "Cabin Class & Travelers",
+        "search": "Search"
+    },
+    "destinations": {
+        "title": "Popular Destinations",
+        "subtitle": "Vacations to make your experience enjoyable in Indonesia!",
+        "days": "Days"
+    },
+    "footer": {
+        "about": "About Us",
+        "aboutGooseFlight": "About GooseFlight",
+        "howItWorks": "How It Works",
+        "blog": "Blog",
+        "forum": "Forum",
+        "support": "Support",
+        "helpCenter": "Help Center",
+        "contactUs": "Contact Us",
+        "privacyPolicy": "Privacy Policy",
+        "termsOfService": "Terms of Service",
+        "getApp": "Get the App",
+        "androidApp": "Android App",
+        "iosApp": "iOS App",
+        "mobileSite": "Mobile Site"
+    }
 }

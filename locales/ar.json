@@ -1,3 +1,47 @@
 {
-    "welcome": "أهلاً وسهلاً!"
-  }
+    "header": {
+        "logo": "جو",
+        "flight": "س فلايت",
+        "home": "الرئيسية",
+        "promo": "العروض",
+        "myBooking": "حجوزاتي",
+        "signIn": "تسجيل الدخول"
+    },
+    "hero": {
+        "title1": "اكتشف ",
+        "title2": "عوالمنا الجنة",
+        "subtitle1": "سافر ",
+        "subtitle2": "إلى أي مكان الآن!"
+    },
+    "search": {
+        "oneWay": "ذهاب فقط",
+        "roundTrip": "ذهاب وعودة",
+        "from": "من",
+        "to": "إلى",
+        "depart": "تاريخ المغادرة",
+        "return": "تاريخ العودة",
+        "cabinClass": "درجة الرحلة وعدد المسافرين",
+        "search": "بحث"
+    },
+    "destinations": {
+        "title": "الوجهات الشائعة",
+        "subtitle": "عطلات لجعل تجربتك ممتعة في إندونيسيا!",
+        "days": "أيام"
+    },
+    "footer": {
+        "about": "من نحن",
+        "aboutGooseFlight": "حول غوز للطيران",
+        "howItWorks": "كيف تعمل",
+        "blog": "مدونة",
+        "forum": "منتدى",
+        "support": "الدعم",
+        "helpCenter": "مركز المساعدة",
+        "contactUs": "اتصل بنا",
+        "privacyPolicy": "سياسة الخصوصية",
+        "termsOfService": "شروط الخدمة",
+        "getApp": "احصل على التطبيق",
+        "androidApp": "تطبيق أندرويد",
+        "iosApp": "تطبيق آي أو إس",
+        "mobileSite": "الموقع للجوال"
+    }
+}
