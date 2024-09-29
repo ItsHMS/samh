@@ -1,3 +1,9 @@
+@import url("https://fonts.googleapis.com/css2?family=Noto+Kufi+Arabic:wght@100..900&display=swap");
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+body[dir="rtl"] {
+  font-family: "Noto Kufi Arabic", sans-serif;
+  text-align: right;
+}
